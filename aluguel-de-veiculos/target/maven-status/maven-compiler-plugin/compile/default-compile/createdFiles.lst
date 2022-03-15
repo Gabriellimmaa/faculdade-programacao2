@@ -1,0 +1,14 @@
+model\Veiculo.class
+com\mycompany\prog2\NovoMotoristaController.class
+util\JpaUtil.class
+model\Pessoa.class
+util\Dao.class
+com\mycompany\prog2\NovoOperadorController.class
+module-info.class
+com\mycompany\prog2\NovoVeiculoController.class
+model\Endereco.class
+model\Motorista.class
+model\Operador.class
+com\mycompany\prog2\PrincipalController.class
+com\mycompany\prog2\App.class
+model\Buscador.class
