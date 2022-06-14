@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Construído com
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+Para o desenvolvimento desses projetos utilizei a seguinte tecnologia:
 - Java;
 
 ---
